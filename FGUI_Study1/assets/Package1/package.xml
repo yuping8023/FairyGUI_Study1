@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="ongxdxad">
+  <resources>
+    <component id="hfoy0" name="Component1.xml" path="/" exported="true"/>
+    <image id="i4dj1" name="ZhanYi_Kuang.png" path="/" scale9grid="0,0,-200,-1080"/>
+    <image id="i4dj2" name="button_Kuang.png" path="/" scale9grid="0,0,-540,-1700"/>
+    <image id="i4dj3" name="button_Click.png" path="/" scale9grid="0,0,-540,-1700"/>
+    <image id="i4dj4" name="buttonYes_Kuang.png" path="/" scale9grid="0,0,-540,-1700"/>
+    <image id="i4dj5" name="buttonYes_Hover.png" path="/" scale9grid="0,0,-540,-1700"/>
+    <image id="i4dj6" name="buttonNo_Kuang.png" path="/" scale9grid="0,0,-540,-1700"/>
+    <image id="i4dj7" name="buttonNo_Hover.png" path="/" scale9grid="0,0,-540,-1700"/>
+    <image id="i4dj8" name="ZhanYi_Filter.png" path="/" scale9grid="0,0,-300,-940"/>
+    <component id="i4dja" name="ButtonYes1.xml" path="/" exported="true"/>
+    <image id="i4djb" name="buttonPlay_Kuang.png" path="/" scale9grid="0,0,-540,-1700"/>
+    <image id="i4djc" name="buttonPlay_Hover.png" path="/" scale9grid="0,0,-540,-1700"/>
+    <image id="i4djd" name="buttonExit_Kuang.png" path="/" scale9grid="0,0,-540,-1700"/>
+    <image id="i4dje" name="buttonExit_Hover.png" path="/" scale9grid="0,0,-540,-1700"/>
+    <component id="i4djf" name="ButtonExit1.xml" path="/" exported="true"/>
+    <sound id="i4dji" name="Duck1.mp3" path="/"/>
+    <sound id="i4djj" name="Duck2.mp3" path="/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>
